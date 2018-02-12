@@ -76,8 +76,8 @@ html, body{
 }
 
 .item__title {
-	max-height: 120px;
-	font: 300 56px Miso, sans-serif;
+	max-height: 125px;
+	font: 300 56px/0.8 Miso, sans-serif;
 	margin: 0;
 	word-break: break-all;
 	text-overflow: ellipsis;
